@@ -1,0 +1,15 @@
+test_map:
+    path:     /map_test
+    defaults: { _controller: NcgBubbleMapBundle:BubbleMap:mapTest }
+
+test_map2:
+    path:     /map_test/{map}
+    defaults: { _controller: NcgBubbleMapBundle:BubbleMap:mapDbTest }
+
+test_map_json:
+    path:     /map_json/{map}.json
+    defaults: { _controller: NcgBubbleMapBundle:BubbleMap:mapJson }
+
+test_form:
+    path:     /test_form
+    defaults: { _controller: NcgBubbleMapBundle:BubbleMap:testForm }

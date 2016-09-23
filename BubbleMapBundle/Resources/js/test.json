@@ -1,0 +1,67 @@
+{
+  "name": "Thinking slow and fast",
+  "children": [
+    {
+      "name": "Chapter 1",
+      "children": [
+        {
+          "name": "two system thinking",
+          "children": [
+            {
+              "name": "description",
+              "size": "5000"
+            },
+            {
+              "name": "system 2",
+              "children": [
+                {
+                  "name": "description",
+                  "size": "1500"
+                },
+                {
+                  "name": "examples",
+                  "children": [
+                    {
+                      "name": "example b",
+                      "size": "2000"
+                    },
+                    {
+                      "name": "example a",
+                      "size": "1000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "system 1",
+              "children": [
+                {
+                  "name": "description",
+                  "size": "1000"
+                },
+                {
+                  "name": "examples",
+                  "children": [
+                    {
+                      "name": "example c",
+                      "size": "2000"
+                    },
+                    {
+                      "name": "example b",
+                      "size": "2000"
+                    },
+                    {
+                      "name": "example a",
+                      "size": "2000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
